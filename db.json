@@ -1,4 +1,5 @@
-[
+{
+  "BondGirls": [
 	  {
 		name: 'Solitaire',
 		avatar_url: 'https://www.007james.com/i/thumbs/articles/list_of_bond_girls/solitaire.jpg',
@@ -125,3 +126,6 @@
 		subtitle: 'A View To a Kill'
 	  }
 	]
+
+
+}
