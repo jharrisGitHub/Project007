@@ -125,7 +125,28 @@
 		"avatar_url": "https://www.007james.com/i/thumbs/articles/list_of_bond_girls/pola-ivanova.jpg",
 		"subtitle": "A View To a Kill"
 	  }
+	],
+	
+"BondWeapons": [
+	  {
+		"name": "Wrist Dart",
+		"avatar_url": "https://www.007james.com/i/thumbs/articles/list_of_bond_girls/solitaire.jpg",
+		"subtitle": "Flex the wrist and a dart containing cyanide is ejected."
+	  },
+	  {
+		"name": "Weapon 2",
+		"avatar_url": "https://www.007james.com/i/thumbs/articles/list_of_bond_girls/rosie-carver.jpg",
+		"subtitle": "Live and Let Die"
+	  },
+	  {
+		"name": "Weapon 3",
+		"avatar_url": "https://www.007james.com/i/thumbs/articles/list_of_bond_girls/miss-caruso.jpg",
+		"subtitle": "Live and Let Die"
+	  },
+	  {
+		"name": "Weapon 4",
+		"avatar_url": "https://www.007james.com/i/thumbs/articles/list_of_bond_girls/mary-goodnight.jpg",
+		"subtitle": "The Man with the Golden Gun"
+	  },
 	]
-
-
 }
